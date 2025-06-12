@@ -60,5 +60,6 @@ double b=sc.nextDouble();
 double c=sc.nextDouble();
  double d=(a*b)/(b+c)+(a%c);
  System.out.printf("%.2f",d);
+ //System.out.println();
     }
 }
